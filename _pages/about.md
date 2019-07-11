@@ -8,7 +8,7 @@ permalink: /about/
 [The Castoe Lab](http://www.snakegenomics.org/CastoeLab/Castoe_Lab_Home.html), University of Texas Arlington
 
 ### Degrees
-B.A. – Biology, University of Minnesota, Morris, 2012
+B.A. – Biology, University of Minnesota, Morris, 2012  
 Ph.D. - Quantitative Biology, University of Texas at Arlington, 2018
 
 ### Research Interests
