@@ -5,7 +5,7 @@ permalink: /contact/
 
 
 ### Email:
-[blair.perry(at)uta.edu](mailto:blair.perry@uta.edu)
+[dschield(at)uta.edu](mailto:dschield@uta.edu)
 
 ### Twitter:
-[@blairperry614](https://twitter.com/blairperry614)
+[@drschield](https://twitter.com/drschield)
