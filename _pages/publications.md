@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=d8A1zCEAAAAJ){: .btn .btn--info .text-center}
+[Google Scholar Profile](https://scholar.google.com/citations?user=ugQddL4AAAAJ&hl=en){: .btn .btn--info .text-center}
 
 ### 2019
 
@@ -40,4 +40,3 @@ Schield, D.R., R.H. Adams,  D.C. Card, __B.W. Perry__, G.I.M. Pasquesi, T. Jezko
 
 Card, D.C., D.R Schield, R.H. Adams, A.B. Corbin, __B.W. Perry__, A.L. Andrew, G.I.M. Pasquesi, E.N. Smith, T. Jezkova, S.M. Boback, W. Booth, and T.A. Castoe. 2016. Phylogeographic and population genetic analyses reveal multiple species of Boa and independent origins of insular dwarfism. *__Molecular Phylogenetics and Evolution__* 102:104-116. [Link](https://www.sciencedirect.com/science/article/pii/S1055790316301245?via%3Dihub)
 
-Pomento, A.M†, __B.W., Perry†__, R.D. Denton, H.L. Gibbs, M.L. Holding. 2016. No safety in the trees: Evidence of local and lineage-level adaptation of the Eastern gray squirrel (_Sciurus carolinensis_) to resisting venom of sympatric rattlesnakes. *__Toxicon__*. (†Co-first authors) [Link](https://www.sciencedirect.com/science/article/pii/S0041010116301295)
