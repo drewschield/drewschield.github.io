@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Drew Schield"
-  avatar           : /images/schield_face.jpg
+  avatar           : /images/schield_face_cropped.jpg
   bio              : "Population genomics of speciation and adaptation."
   location         : "Texas"
   email            : "dschield@uta.edu"
