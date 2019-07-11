@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blair Perry"
+title                    : "Drew Schield"
 title_separator          : "-"
-name                     : "Blair Perry"
-description              : "Evolutionary and functional genomics."
+name                     : "Drew Schield"
+description              : "Population genomics of speciation and adaptation."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "blairperry614"
+  username               : "drschield"
 facebook:
   username               :
   app_id                 :
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Blair Perry"
+  name             : "Drew Schield"
   avatar           : /images/avatar2.png
-  bio              : "Evolutionary and functional genomics."
+  bio              : "Population genomics of speciation and adaptation."
   location         : "Texas"
-  email            : "blair.perry@uta.edu"
+  email            : "dschield@uta.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
