@@ -7,4 +7,6 @@ author_profile: true
 ---
 
 
-### Coming soon!
+### Coming soon!  
+  
+  Crater and profile photographs by Blair Perry.
