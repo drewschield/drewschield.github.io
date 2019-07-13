@@ -22,6 +22,8 @@ Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference
 
 ### 2018
 
+Strickland, J.L., C.F. Smith, A.J. Mason, __D.R. Schield__, M. Borja, G. Casteñeda-Gaytán, C.L. Spencer, L.L. Smith, A. Trápaga, N.M. Bouzid, G. Campillo-García, O.A. Flores-Villela, D. Antonio-Rangel, S.P. Mackessy, T.A. Castoe, D.R. Rokyta, and C.L. Parkinson. 2018. Evidence for divergent patterns of local selection driving venom variation in Mojave Rattlesnakes (Crotalus scutulatus).  __*Scientific Reports*__ 8: 17622. [Link](https://www.nature.com/articles/s41598-018-35810-9)
+
 Card, D.C., B.W. Perry, R.H. Adams, __D.R. Schield__, A. Young, A.L. Andrew, T. Jezkova, M.R. Walsh, M. Rockford, F. Mazzotti, K. Hart, M. Hunter, and T.A. Castoe. 2018. Novel ecological and climatic conditions drive rapid adaptation in invasive Florida Burmese pythons. *__Molecular Ecology__*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14885)
 
 Perry, B.W., __D.R. Schield__, and T.A. Castoe. 2018. Evolution: Plasticity versus selection, or plasticity and selection? *__Current Biology__* 28:R1104-R1106. [Link](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30980-1)
