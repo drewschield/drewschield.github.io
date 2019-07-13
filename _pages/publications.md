@@ -18,7 +18,7 @@ __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.
 
 __Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__. [Link](https://genome.cshlp.org/content/29/4/590)
 
-Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. In Press. __Current Molecular Biology Reports__. (Invited Article).
+Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. In Press. __*Current Molecular Biology Reports*__. (Invited Article).
 
 ### 2018
 
