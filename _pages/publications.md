@@ -39,6 +39,10 @@ Card, D.C, __D.R. Schield__, and T.A. Castoe. Plasticity and local adaptation ex
 
 ### 2017
 
+Adams, R.H., __D.R. Schield__, D.C. Card, A.B. Corbin, and T.A. Castoe. 2017. ThetaMater: Bayesian estimation of population parameter θ from genomic data. __*Bioinformatics*__ 34: 1072-1073. [Link](https://par.nsf.gov/servlets/purl/10054919)
+
+Gamble, T., T.A. Castoe, S.V. Nielsen, J.L. Banks, D.C. Card, __D.R. Schield__, G.W. Schuett, and W. Booth. 2017. The discovery of XY sex chromosomes in a boa and python. __*Current Biology*__ 27: 2148-2153. [Link](https://www.sciencedirect.com/science/article/pii/S096098221730711X)
+
 Andrew, A.L.†, B.W. Perry†, D.C. Card, __D.R. Schield__, R.P. Ruggiero, S.E. McGaugh, A. Chowdhary, S.M. Secor, and T.A. Castoe. 2017. Growth and stress response mechanisms underlying post-feeding regenerative organ growth in the Burmese python. *__BMC Genomics__* 18:338. (†co-first authors) [Link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3743-1)
 
 __Schield, D.R.__, R.H. Adams,  D.C. Card, B.W. Perry, G.I.M. Pasquesi, T. Jezkova, D.M. Portik, A.L. Andrew, C.L. Spencer, E.E. Sanchez, M.K. Fujita, S.P. Mackessy, and T.A. Castoe. 2017. Insight into the roles of selection in speciation from genomic patterns of divergence and introgression in secondary contact in venomous rattlesnakes. *__Ecology and Evolution__* 7: 3951-3966. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.2996)
