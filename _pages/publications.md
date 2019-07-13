@@ -15,7 +15,6 @@ Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasq
 __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__.  
 (\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649)
 
-
 __Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__. [Link](https://genome.cshlp.org/content/29/4/590)
 
 Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. In Press. __*Current Molecular Biology Reports*__. (Invited Article).
@@ -33,6 +32,10 @@ Perry, B.W., D.C. Card, J.W. McGlothlin, G.I.M. Pasquesi, R.H. Adams, __D.R. Sch
 Pasquesi, G.I.M., R.H. Adams, D.C. Card, __D.R. Schield__, B.W. Perry, A.B. Corbin, J. Reyes-Velasco, R.P. Ruggiero, M.W. Vandewege, J.A. Shortt, and T.A. Castoe. 2018. Squamate reptiles challenge paradigms of genomic repeat element evolution set by birds and mammals. *__Nature Communications__* 9:2774. [Link](https://www.nature.com/articles/s41467-018-05279-1)
 
 __Schield, D.R.__, D.C. Card, R.H Adams, A.B. Corbin, T. Jezkova, N.R. Hales, J.M. Meik, B.W. Perry, C.L. Spencer, L.L. Smith, G. Campillo Garcia, N.M. Bouzid, J.L. Strickland, R.W. Bryson Jr., C.L. Parkinson, O. Flores-Viella, S.P. Mackessy and T.A. Castoe. 2018. Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes (_Crotalus scutulatus_). *__Molecular Phylogenetics and Evolution__* 10.1016/j.ympev.2018.06.013. [Link](https://www.sciencedirect.com/science/article/pii/S1055790317304992?via%3Dihub)
+
+Adams, R.H., __D.R. Schield__, D.C. Card, and Castoe, T.A. 2018. Assessing the impacts of positive selection on coalescent-based species tree estimation and species delimitation. __*Systematic Biology*__ 67:1076-1090. [Link](https://academic.oup.com/sysbio/article/67/6/1076/4995179)
+
+Card, D.C, __D.R. Schield__, and T.A. Castoe. Plasticity and local adaptation explain lizard cold tolerance. __*Molecular Ecology*__ 27: 2173-2175. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14575)
 
 ### 2017
 
