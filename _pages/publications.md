@@ -47,7 +47,21 @@ Andrew, A.L.†, B.W. Perry†, D.C. Card, __D.R. Schield__, R.P. Ruggiero, S.E.
 
 __Schield, D.R.__, R.H. Adams,  D.C. Card, B.W. Perry, G.I.M. Pasquesi, T. Jezkova, D.M. Portik, A.L. Andrew, C.L. Spencer, E.E. Sanchez, M.K. Fujita, S.P. Mackessy, and T.A. Castoe. 2017. Insight into the roles of selection in speciation from genomic patterns of divergence and introgression in secondary contact in venomous rattlesnakes. *__Ecology and Evolution__* 7: 3951-3966. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.2996)
 
+Hales, N.R., __D.R. Schield__, A.L. Andrew, D.C. Card, M.R. Walsh, and T.A. Castoe. 2017. Contrasting gene expression programs underlie predator-induced phenotypic plasticity within and across-generations in Daphnia. __*Molecular Ecology*__ 26: 5003-5015. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14213)
+
+Shortt, J.A., D.C. Card, __D.R. Schield__, L. Yang, B. Zhong, T.A. Castoe, E.J. Carlton, and D.D. Pollock. 2017. Whole genome amplification and targeted genome sequencing in Shistosoma japonicum isolates. __*PLoS Neglected Tropical Diseases*__ 11: e0005292. [Link](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005292)
+
 ### 2016
 
+Adams, R.H., __D.R. Schield__, D.C. Card, H. Blackmon, and T.A. Castoe. 2016. GppFst: Genomic posterior predictive simulations of FST and dXY for identifying outlier loci from population genomic data. __*Bioinformatics*__ 33:1414-1415. [Link](https://academic.oup.com/bioinformatics/article/33/9/1414/2736363)
+
+__Schield, D.R__, D.C. Card, J. Reyes-Velasco, A.L. Andrew, C.A. Modahl, S.M. Mackessy, D.D. Pollock, and T.A. Castoe. 2016. A role for genomics in rattlesnake research – current knowledge and future potential. In: __*Rattlesnakes of Arizona*__, G.W. Schuett, L.W. Porras, and R.S. Reiserer (Eds.), Eco Books.
+
 Card, D.C., __D.R Schield__, R.H. Adams, A.B. Corbin, B.W. Perry, A.L. Andrew, G.I.M. Pasquesi, E.N. Smith, T. Jezkova, S.M. Boback, W. Booth, and T.A. Castoe. 2016. Phylogeographic and population genetic analyses reveal multiple species of Boa and independent origins of insular dwarfism. *__Molecular Phylogenetics and Evolution__* 102:104-116. [Link](https://www.sciencedirect.com/science/article/pii/S1055790316301245?via%3Dihub)
+
+Streicher, J.W., J.P. McEntee, L. Drzich, D.C. Card, __D.R. Schield__, U. Smart, C.L. Parkinson, T. Jezkova, E.N. Smith, and T.A. Castoe. 2016. Genetic surfing, not allopatric divergence, explains spatial sorting of mitochondrial haplotypes in venomous coralsnakes. __*Evolution*__ 70: 1435-1449. Cover Article. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12967)
+
+Adams. R.H., H.G. Blackmon, J. Reyes-Velasco, __D.R. Schield__, D.C. Card, A.L. Andrew, N. Waynewood, and T.A. Castoe. 2016. Microsatellite landscape evolutionary dynamics across 450 million years of vertebrate genome evolution. __*Genome*__ 59:295-310. [Link](https://www.nrcresearchpress.com/doi/full/10.1139/gen-2015-0124)
+
+__Schield, D.R.__, M.F. Walsh, D.C. Card, A.L. Andrew, R.H. Adams, and T.A. Castoe. 2016. EpiRADseq: genome-wide analysis of shifts in DNA methylation using next-generation sequencing. __*Methods in Ecology and Evolution*__ 7: 60-69. Cover Article. [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12435)
 
