@@ -8,6 +8,8 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=ugQddL4AAAAJ&hl=en){: .btn .btn--info .text-center}
 
+__*PDFs for individual use only*__
+
 ### 2019
 
 Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. In Press. __*Proceedings of the Royal Society of London B*__. [Link](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2019.0910)
