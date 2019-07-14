@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Drew Schield"
+title                    : "Drew Schield, Ph.D."
 title_separator          : "-"
 name                     : "Drew Schield"
 description              : "Population genomics of speciation and adaptation."
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Drew Schield"
+  name             : "Drew Schield, Ph.D."
   avatar           : /images/schield_face_cropped.jpg
-  bio              : "Population genomics of speciation and adaptation."
+  bio              : "Postdoctoral researcher studying the genomics of speciation and adaptation."
   location         : "Texas"
   email            : "dschield@uta.edu"
   uri              :
