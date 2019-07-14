@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2019
 
-Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. In Press. __*Proceedings of the Royal Society of London B*__.
+Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. In Press. __*Proceedings of the Royal Society of London B*__. [Link](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2019.0910)
 
 __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__.  
 (\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649)
