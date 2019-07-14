@@ -65,3 +65,26 @@ Adams. R.H., H.G. Blackmon, J. Reyes-Velasco, __D.R. Schield__, D.C. Card, A.L. 
 
 __Schield, D.R.__, M.F. Walsh, D.C. Card, A.L. Andrew, R.H. Adams, and T.A. Castoe. 2016. EpiRADseq: genome-wide analysis of shifts in DNA methylation using next-generation sequencing. __*Methods in Ecology and Evolution*__ 7: 60-69. Cover Article. [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12435)
 
+### 2015
+
+Andrew, A.L., D.C. Card, R.R. Ruggiero, __D.R. Schield__, R.H. Adams, D.D. Pollock, S.M. Secor, and T.A. Castoe. 2015. Rapid changes in gene expression direct rapid shifts in intestinal form and function in the Burmese python after feeding. __*Physiological Genomics*__ 47 (5): 147-157. [Link](https://www.physiology.org/doi/full/10.1152/physiolgenomics.00131.2014)
+
+__Schield, D.R.__, D.C. Card, J. Reyes-Velasco, T. Jezkova, F.N. Proctor, C.L. Spencer, H.W. Herrmann, S.P. Mackessy, T.A. Castoe. 2014. Incipient speciation and biased gene flow between two lineages of the Western Diamondback Rattlesnake (Crotalus atrox). __*Molecular Phylogenetics and Evolution*__ 83: 213-223. [Link](https://www.sciencedirect.com/science/article/pii/S1055790314004242)
+
+### 2014
+
+Jezkova, T., B.R. Riddle, D.C. Card, __D.R. Schield__, M.E. Eckstut, T.A. Castoe. 2014. Genetic consequences of post-glacial range expansion in two co-distributed rodents (genus Dipodomys) depend on ecology and genetic marker choice. __*Molecular Ecology*__ 24: 83-97. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13012)
+
+Reyes-Velasco, J., D.C. Card, A.L. Andrew, K.J. Shaney, R.H. Adams, __D.R. Schield__, N. Casewell, S.P. Mackessy, and T.A. Castoe. 2014. Expression of venom gene homologs in diverse python tissues suggests a new model for the evolution of snake venom. __*Molecular Biology and Evolution*__ 32: 173-183. [Link](https://academic.oup.com/mbe/article/32/1/173/2925580)
+
+Card, D.C., __D.R. Schield__, J. Reyes-Velasco, A.L. Andrew, R.P. Ruggiero, D.D. Pollock, D.F. Tomback, S.J. Oyler-McCance, M.K. Fujita, and T.A. Castoe. 2014. Two low coverage bird genomes and a comparison of reference-guided versus de novo genome assemblies. __*PLoSOne*__ 9: e106649. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106649)
+
+Shaney, K.J., D.C. Card, __D.R. Schield__, R.P. Ruggiero, D.D. Pollock, S.P. Mackessy, T.A. Castoe. 2014. Squamate reptile genomics and evolution. In: __*Handbook of Toxinology: Venom Genomics and Proteomics*__, P. Gopalakrishnakone (Ed.), Springer Reference Press, New York, NY. [Link](http://www.snakegenomics.org/CastoeLab/Publications_files/Shaney_etal.BookChapter.pdf)
+
+### 2013
+
+Castoe. T.A., A.P.J. de Koning, K.T. Hall, D.C. Card, __D.R. Schield__, M.K. Fujita, R.P. Ruggiero, J.F. Degner, J.M. Daza, W. Gu, J. Reyes-Velasco, K.J. Shaney, J.M. Castoe, S.E. Fox, A.W. Poole, D. Polanco, J. Dobry, M.W. Vandewege, Q. Li, R. Schott, A. Kapusta, P. Minx, C. Feschotte, P. Uetz, D.A. Ray, F.G. Hoffmann, R. Bogden, E.N. Smith, B.S.W. Chang, F. Vonk, N.R. Casewell, C.V. Henkel, M.K. Richardson, S.P. Mackessy, A.M. Bronikowski, M. Yandell, W.C. Warren, S.M. Secor, and D.D. Pollock. 2013. The Burmese Python genome reveals the molecular basis for extreme adaptation in snakes. __*Proceedings of the National Academy of Sciences, USA*__ 110:20645-20650. [Link](https://www.pnas.org/content/110/51/20645.short)
+
+### 2012
+
+__Schield, D.R.__ and H.L Waye. 2012. Thamnophis radix: tonic immobility. Natural History. __*Herpetological Review*__ 43(2): 352.
