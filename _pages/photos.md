@@ -22,6 +22,5 @@ author_profile: true
     <a href="/images/manonhill.jpg"><img src="/images/manonhill.jpg"></a>
     <figcaption>05/30/19 - Exploring a den site in northern Montana.</figcaption>
 </figure>
-
   
   Crater and profile photographs on main pages by Blair Perry.
