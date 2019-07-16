@@ -19,6 +19,6 @@ author_profile: true
 </figure>
 
 <figure>
-    <a href="/images/manonhill.jpg"><img src="/images/manonhill2.jpg"></a>
+    <a href="/images/manonhill2.jpg"><img src="/images/manonhill2.jpg"></a>
     <figcaption>05/30/19 - Exploring a den site in northern Montana.</figcaption>
 </figure>
