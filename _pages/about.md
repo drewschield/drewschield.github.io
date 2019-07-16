@@ -17,4 +17,5 @@ Ph.D. - Quantitative Biology, University of Texas at Arlington, 2018
 - Comparative genomic structure and function in vertebrates
 - Sex chromosome evolution
 
-Crater and profile photographs on main pages by Blair Perry.
+
+*Crater and profile photographs on main pages by Blair Perry.*
