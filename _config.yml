@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Drew Schield, Ph.D."
+  name             : #"Drew Schield, Ph.D."
   avatar           : /images/schield_face_cropped.jpg
   bio              : "Postdoctoral researcher studying the genomics of speciation and adaptation."
   location         : "Texas"
