@@ -15,7 +15,7 @@ __*PDFs for individual use only*__
 Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. In Press. __*Proceedings of the Royal Society of London B*__. [Link](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2019.0910)
 
 __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__.  
-(\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649)
+(\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649) [PDF](https://drewschield.github.io/pubs/SchieldPerry2019BiolJLinnSoc.pdf)
 
 __Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__. [Link](https://genome.cshlp.org/content/29/4/590) [PDF](https://drewschield.github.io/pubs/Schield2019GenomeRes.pdf)
 
