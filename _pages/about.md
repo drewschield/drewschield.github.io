@@ -15,6 +15,6 @@ Ph.D. – Quantitative Biology, University of Texas at Arlington, 2018
 - Evolution of recombination landscapes in snakes
 - Comparative genomic structure and function in vertebrates
 - Sex chromosome evolution
-  
+
 
 *Crater and profile photographs on main pages courtesy of Blair Perry.*
