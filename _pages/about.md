@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Degrees
 B.A. – Biology, University of Minnesota, Morris, 2012  
-Ph.D. - Quantitative Biology, University of Texas at Arlington, 2018
+Ph.D. – Quantitative Biology, University of Texas at Arlington, 2018  
 
 ### Research Interests
 - Gene flow and hybridization in rattlesnakes
