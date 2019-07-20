@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ## Drew R. Schield, Ph.D.
-### Postdoctoral Researcher
+### Postdoctoral Researcher [CV](https://drewschield.github.io/CV/Schield_CV_07.19.19.pdf)
 [The Castoe Lab](http://www.snakegenomics.org/CastoeLab/Castoe_Lab_Home.html), University of Texas Arlington
 
 ### Degrees
