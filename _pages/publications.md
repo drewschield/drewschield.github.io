@@ -17,7 +17,7 @@ Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasq
 __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__.  
 (\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649)
 
-__Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__. [Link](https://genome.cshlp.org/content/29/4/590)
+__Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__. [Link](https://genome.cshlp.org/content/29/4/590) [PDF](https://drewschield.github.io/pubs/Schield2019GenomeRes.pdf)
 
 Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. In Press. __*Current Molecular Biology Reports*__. (Invited Article).
 
