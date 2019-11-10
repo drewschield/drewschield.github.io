@@ -12,16 +12,20 @@ __*PDFs for individual use only*__
 
 ### 2019
 
-Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. In Press. __*Proceedings of the Royal Society of London B*__. [Link](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2019.0910) [PDF](https://drewschield.github.io/pubs/Perry2019ProcB.pdf)
+Card, D.C., R.H. Adams, __D.R. Schield__, B.W. Perry, A.B. Corbin, G.I.M. Pasquesi, K. Row, J. Daza, W. Booth, C. Montgomery, S. Boback, and T.A. Castoe. 2019. Genomic basis of convergent island phenotypes in boa constrictors. __*Genome Biology and Evolution*__ 11: 3123-3143. [Link](https://academic.oup.com/gbe/article/11/11/3123/5603307) [PDF](https://drewschield.github.io/pubs/Card2019GBE.pdf)
 
-__Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__.  
+Watson, J.A., C.L. Spencer, __D.R. Schield__, B.O. Butler, L.L. Smith, O. Flores-Villela, J.A. Campbell, S.P. Mackessy, T.A. Castoe, and J.M. Meik. Geographic variation in morphology in the Mohave Rattlesnake (_Crotalus scutulatus_ Kennicott 1861) (Serpentes: Viperidae): implications for species boundaries. __*Zootaxa*__ 4683: 129-143. [Link](https://www.mapress.com/j/zt/article/view/zootaxa.4683.1.7) [PDF](https://drewschield.github.io/pubs/Watson2019Zootaxa.pdf)
+
+Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. __*Proceedings of the Royal Society of London B*__ 286: 20190910. [Link](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2019.0910) [PDF](https://drewschield.github.io/pubs/Perry2019ProcB.pdf)
+
+__Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__ 128: 149-169.  
 (\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649) [PDF](https://drewschield.github.io/pubs/SchieldPerry2019BiolJLinnSoc.pdf)
 
-__Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__. [Link](https://genome.cshlp.org/content/29/4/590) [PDF](https://drewschield.github.io/pubs/Schield2019GenomeRes.pdf)
+__Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. A chromosome-level rattlesnake genome illustrates sex chromosome evolution and molecular mechanisms of venom expression.  __*Genome Research*__ 29: 590-601. [Link](https://genome.cshlp.org/content/29/4/590) [PDF](https://drewschield.github.io/pubs/Schield2019GenomeRes.pdf)
 
 (*Genome data are available* [here](https://figshare.com/projects/Prairie_rattlesnake_Crotalus_viridis_genome_assembly_and_annotation/66560))
 
-Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. In Press. __*Current Molecular Biology Reports*__. (Invited Article). [PDF](https://drewschield.github.io/pubs/Adams2019CurMolBiolRep.pdf)
+Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. __*Current Molecular Biology Reports*__ 5: 107-115. (Invited Article). [PDF](https://drewschield.github.io/pubs/Adams2019CurMolBiolRep.pdf)
 
 ### 2018
 
@@ -65,7 +69,7 @@ Card, D.C., __D.R Schield__, R.H. Adams, A.B. Corbin, B.W. Perry, A.L. Andrew, G
 
 Streicher, J.W., J.P. McEntee, L. Drzich, D.C. Card, __D.R. Schield__, U. Smart, C.L. Parkinson, T. Jezkova, E.N. Smith, and T.A. Castoe. 2016. Genetic surfing, not allopatric divergence, explains spatial sorting of mitochondrial haplotypes in venomous coralsnakes. __*Evolution*__ 70: 1435-1449. Cover Article. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.12967)
 
-Adams. R.H., H.G. Blackmon, J. Reyes-Velasco, __D.R. Schield__, D.C. Card, A.L. Andrew, N. Waynewood, and T.A. Castoe. 2016. Microsatellite landscape evolutionary dynamics across 450 million years of vertebrate genome evolution. __*Genome*__ 59:295-310. [Link](https://www.nrcresearchpress.com/doi/full/10.1139/gen-2015-0124)
+Adams, R.H., H.G. Blackmon, J. Reyes-Velasco, __D.R. Schield__, D.C. Card, A.L. Andrew, N. Waynewood, and T.A. Castoe. 2016. Microsatellite landscape evolutionary dynamics across 450 million years of vertebrate genome evolution. __*Genome*__ 59:295-310. [Link](https://www.nrcresearchpress.com/doi/full/10.1139/gen-2015-0124)
 
 __Schield, D.R.__, M.F. Walsh, D.C. Card, A.L. Andrew, R.H. Adams, and T.A. Castoe. 2016. EpiRADseq: genome-wide analysis of shifts in DNA methylation using next-generation sequencing. __*Methods in Ecology and Evolution*__ 7: 60-69. Cover Article. [Link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12435)
 
