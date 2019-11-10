@@ -49,7 +49,7 @@ Adams, R.H., __D.R. Schield__, D.C. Card, A.B. Corbin, and T.A. Castoe. 2017. Th
 
 ### 2017
 
-Gamble, T., T.A. Castoe, S.V. Nielsen, J.L. Banks, D.C. Card, __D.R. Schield__, G.W. Schuett, and W. Booth. 2017. The discovery of XY sex chromosomes in a boa and python. __*Current Biology*__ 27: 2148-2153. [Link](https://www.sciencedirect.com/science/article/pii/S096098221730711X)
+Gamble, T., T.A. Castoe, S.V. Nielsen, J.L. Banks, D.C. Card, __D.R. Schield__, G.W. Schuett, and W. Booth. 2017. The discovery of XY sex chromosomes in a boa and python. __*Current Biology*__ 27: 2148-2153. [Link](https://www.sciencedirect.com/science/article/pii/S096098221730711X) [PDF](https://drewschield.github.io/pubs/Gamble2017CurrentBiol.pdf)
 
 Andrew, A.L.†, B.W. Perry†, D.C. Card, __D.R. Schield__, R.P. Ruggiero, S.E. McGaugh, A. Chowdhary, S.M. Secor, and T.A. Castoe. 2017. Growth and stress response mechanisms underlying post-feeding regenerative organ growth in the Burmese python. *__BMC Genomics__* 18:338. (†co-first authors) [Link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3743-1)
 
