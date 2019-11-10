@@ -39,15 +39,15 @@ Perry, B.W., D.C. Card, J.W. McGlothlin, G.I.M. Pasquesi, R.H. Adams, __D.R. Sch
 
 Pasquesi, G.I.M., R.H. Adams, D.C. Card, __D.R. Schield__, B.W. Perry, A.B. Corbin, J. Reyes-Velasco, R.P. Ruggiero, M.W. Vandewege, J.A. Shortt, and T.A. Castoe. 2018. Squamate reptiles challenge paradigms of genomic repeat element evolution set by birds and mammals. *__Nature Communications__* 9:2774. [Link](https://www.nature.com/articles/s41467-018-05279-1) [PDF](https://drewschield.github.io/pubs/Pasquesi2018NatureCommun.pdf)
 
-__Schield, D.R.__, D.C. Card, R.H Adams, A.B. Corbin, T. Jezkova, N.R. Hales, J.M. Meik, B.W. Perry, C.L. Spencer, L.L. Smith, G. Campillo Garcia, N.M. Bouzid, J.L. Strickland, R.W. Bryson Jr., C.L. Parkinson, O. Flores-Viella, S.P. Mackessy and T.A. Castoe. 2018. Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes (_Crotalus scutulatus_). *__Molecular Phylogenetics and Evolution__* 10.1016/j.ympev.2018.06.013. [Link](https://www.sciencedirect.com/science/article/pii/S1055790317304992?via%3Dihub)
+__Schield, D.R.__, D.C. Card, R.H Adams, A.B. Corbin, T. Jezkova, N.R. Hales, J.M. Meik, B.W. Perry, C.L. Spencer, L.L. Smith, G. Campillo Garcia, N.M. Bouzid, J.L. Strickland, R.W. Bryson Jr., C.L. Parkinson, O. Flores-Viella, S.P. Mackessy and T.A. Castoe. 2018. Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes (_Crotalus scutulatus_). *__Molecular Phylogenetics and Evolution__* 10.1016/j.ympev.2018.06.013. [Link](https://www.sciencedirect.com/science/article/pii/S1055790317304992?via%3Dihub) [PDF](https://drewschield.github.io/pubs/Schield2018MPE.pdf)
 
-Adams, R.H., __D.R. Schield__, D.C. Card, and Castoe, T.A. 2018. Assessing the impacts of positive selection on coalescent-based species tree estimation and species delimitation. __*Systematic Biology*__ 67:1076-1090. [Link](https://academic.oup.com/sysbio/article/67/6/1076/4995179)
+Adams, R.H., __D.R. Schield__, D.C. Card, and Castoe, T.A. 2018. Assessing the impacts of positive selection on coalescent-based species tree estimation and species delimitation. __*Systematic Biology*__ 67:1076-1090. [Link](https://academic.oup.com/sysbio/article/67/6/1076/4995179) [PDF](https://drewschield.github.io/pubs/Adams2018SystBiol.pdf)
 
-Card, D.C, __D.R. Schield__, and T.A. Castoe. Plasticity and local adaptation explain lizard cold tolerance. __*Molecular Ecology*__ 27: 2173-2175. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14575)
+Card, D.C, __D.R. Schield__, and T.A. Castoe. Plasticity and local adaptation explain lizard cold tolerance. __*Molecular Ecology*__ 27: 2173-2175. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14575) [PDF](https://drewschield.github.io/pubs/Card2018MolEcolviews.pdf)
+
+Adams, R.H., __D.R. Schield__, D.C. Card, A.B. Corbin, and T.A. Castoe. 2017. ThetaMater: Bayesian estimation of population parameter θ from genomic data. __*Bioinformatics*__ 34: 1072-1073. [Link](https://par.nsf.gov/servlets/purl/10054919) [PDF](https://drewschield.github.io/pubs/Adams2018Bioinformatics.pdf)
 
 ### 2017
-
-Adams, R.H., __D.R. Schield__, D.C. Card, A.B. Corbin, and T.A. Castoe. 2017. ThetaMater: Bayesian estimation of population parameter θ from genomic data. __*Bioinformatics*__ 34: 1072-1073. [Link](https://par.nsf.gov/servlets/purl/10054919)
 
 Gamble, T., T.A. Castoe, S.V. Nielsen, J.L. Banks, D.C. Card, __D.R. Schield__, G.W. Schuett, and W. Booth. 2017. The discovery of XY sex chromosomes in a boa and python. __*Current Biology*__ 27: 2148-2153. [Link](https://www.sciencedirect.com/science/article/pii/S096098221730711X)
 
