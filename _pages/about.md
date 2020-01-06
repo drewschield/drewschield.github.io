@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 ## Drew R. Schield, Ph.D.
-### Postdoctoral Researcher [CV](https://drewschield.github.io/CV/Schield_CV_11.10.19.pdf)
+### Postdoctoral Researcher [CV](https://drewschield.github.io/CV/Schield_CV_01.06.20.pdf)
 [The Castoe Lab](https://www.castoelaboratory.org/), University of Texas Arlington
 
 ### Degrees
