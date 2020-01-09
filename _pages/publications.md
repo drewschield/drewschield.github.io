@@ -10,6 +10,12 @@ author_profile: true
 
 __*PDFs for individual use only*__
 
+### 2020
+
+Schield, D.R., G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2020. Snake recombination landscapes are concentrated in functional regions despite PRDM9. *In Press at* __*Molecular Biology and Evolution*__
+
+(*Recombination maps are available* [here](https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224))
+
 ### 2019
 
 Card, D.C., R.H. Adams, __D.R. Schield__, B.W. Perry, A.B. Corbin, G.I.M. Pasquesi, K. Row, J. Daza, W. Booth, C. Montgomery, S. Boback, and T.A. Castoe. 2019. Genomic basis of convergent island phenotypes in boa constrictors. __*Genome Biology and Evolution*__ 11: 3123-3143. [Link](https://academic.oup.com/gbe/article/11/11/3123/5603307) [PDF](https://drewschield.github.io/pubs/Card2019GBE.pdf)
