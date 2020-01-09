@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2020
 
-Schield, D.R., G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2020. Snake recombination landscapes are concentrated in functional regions despite PRDM9. *In Press at* __*Molecular Biology and Evolution*__
+__Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2020. Snake recombination landscapes are concentrated in functional regions despite PRDM9. *In Press at* __*Molecular Biology and Evolution*__
 
 (*Recombination maps are available* [here](https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224))
 
