@@ -5,7 +5,7 @@ permalink: /contact/
 
 
 ### Email:
-[dschield(at)uta.edu](mailto:dschield@uta.edu)
+[drew.schield(at)colorado.edu](mailto:drew.schield@colorado.edu)
 
 ### Twitter:
 [@drschield](https://twitter.com/drschield)
