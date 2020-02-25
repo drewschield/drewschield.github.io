@@ -103,8 +103,8 @@ author:
   name             : #"Drew Schield, Ph.D."
   avatar           : /images/schield_face_cropped.jpg
   bio              : "Postdoctoral researcher studying the genomics of speciation and adaptation."
-  location         : "Texas"
-  email            : "dschield@uta.edu"
+  location         : "Colorado"
+  email            : "drew.schield@colorado.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
