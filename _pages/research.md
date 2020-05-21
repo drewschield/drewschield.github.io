@@ -22,5 +22,5 @@ Sex chromosomes are intriguing regions of the genome due to their unique pattern
 
 ### Phylogenetics and Phylogeography
 
-<img src="{{ https://drewschield.github.io }}{{ https://drewschield.github.io }}/images/scut_tree.png" alt="">
+<img src="{{ https://drewschield.github.io }}{{ https://drewschield.github.io }}/images/scut_tree.png" alt="" width="500">
 Understanding the evolutionary history of a group is intrinsically valuable and provides a necessary framework for genomic comparisons. I've contributed to several projects focused on estimating the phylogeny and phylogeography of snake species, with a special focus on comparisons of nuclear and mitochondrial trees. Differences in topologies between nuclear and mitochondrial genomes have can reveal interesting patterns, including differential introgression in hybrid zones ([Schield et al. 2015 *MPE*](https://drewschield.github.io/pubs/2015SchieldMPE.pdf), [2017 *Ecol & Evol*](https://drewschield.github.io/pubs/2017SchieldEcolEvol.pdf), [Schield and Perry et al. 2019 *Biol J Linn Soc*](https://drewschield.github.io/pubs/SchieldPerry2019BiolJLinnSoc.pdf)), and distinct patterns of geographic range expansion (i.e., genetic surfing; [Streicher et al. 2016 *Evolution*](https://drewschield.github.io/pubs/2016StreicherEvolution.pdf)).
