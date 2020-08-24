@@ -103,4 +103,4 @@ Castoe. T.A., A.P.J. de Koning, K.T. Hall, D.C. Card, __D.R. Schield__, M.K. Fuj
 
 ### 2012
 
-__Schield, D.R.__ and H.L Waye. 2012. Thamnophis radix: tonic immobility. Natural History. __*Herpetological Review*__ 43(2): 352.
+__Schield, D.R.__ and H.L Waye. 2012. Thamnophis radix: tonic immobility. Natural History. __*Herpetological Review*__ 43(2): 352. [PDF](https://drewschield.github.io/pubs/SchieldWaye2012HerpReview.pdf)
