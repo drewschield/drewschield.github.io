@@ -16,6 +16,8 @@ __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K.
 
 (*Recombination maps are available* [here](https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224))
 
+__Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K. Westfall, and T.A. Castoe. Applications of genomics and related technologies for studying reptile venoms. In Press in __*Handbook of Venom and Toxins of Reptiles, Second Edition*__.
+
 B.W. Perry, __D.R. Schield__, R.H. Adams, and T.A. Castoe. Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution. __*Molecular Biology and Evolution*__. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540)
 
 Perry, B.W., __D.R. Schield__, A.K. Westfall, S.P. Mackessy, and T.A. Castoe. Physiological demands and signaling mechanisms associated with snake venom production and storage illustrated by transcriptional analyses of venom glands. __*Scientific Reports*__.
