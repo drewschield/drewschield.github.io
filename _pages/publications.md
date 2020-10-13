@@ -18,7 +18,7 @@ __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K.
 
 B.W. Perry, __D.R. Schield__, R.H. Adams, and T.A. Castoe. Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution. __*Molecular Biology and Evolution*__. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540)
 
-Perry, B.W., __D.R. Schield__, A.K. Westfall, S.P. Mackessy, and T.A. Castoe. Physiological demands and signaling mechanisms associated with snake venom production and storage illustrated by transcriptional analyses of venom glands. __*Scientific Reports*__*.
+Perry, B.W., __D.R. Schield__, A.K. Westfall, S.P. Mackessy, and T.A. Castoe. Physiological demands and signaling mechanisms associated with snake venom production and storage illustrated by transcriptional analyses of venom glands. __*Scientific Reports*__.
 
 Pasquesi, G.I.M., B.W. Perry, R.P. Ruggiero, M.W. Vandewege, __D.R. Schield__, and T.A. Castoe. 2020. Vertebrate lineages exhibit diverse patterns of transposable element regulation and expression across tissues. __*Genome Biology and Evolution*__ 12: 506-521. [Link](https://academic.oup.com/gbe/article/12/5/506/5818493) [PDF](https://drewschield.github.io/pubs/Pasquesi2020GBE.pdf).
 
