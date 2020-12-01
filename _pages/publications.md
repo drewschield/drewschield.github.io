@@ -18,7 +18,9 @@ __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K.
 
 __Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K. Westfall, and T.A. Castoe. Applications of genomics and related technologies for studying reptile venoms. In Press in __*Handbook of Venom and Toxins of Reptiles, Second Edition*__.
 
-B.W. Perry, __D.R. Schield__, R.H. Adams, and T.A. Castoe. Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution. __*Molecular Biology and Evolution*__. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540)
+Z.L. Nikolakis, N.R. Hales, B.W. Perry, __D.R. Schield__, L.E. Timm, Y. Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe. Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_). Accepted at __*PLoS Neglected Tropical Diseases*__.
+
+B.W. Perry, __D.R. Schield__, R.H. Adams, and T.A. Castoe. Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution. __*Molecular Biology and Evolution*__. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540) [PDF](https://drewschield.github.io/pubs/Perry2020MBE.pdf)
 
 Perry, B.W., __D.R. Schield__, A.K. Westfall, S.P. Mackessy, and T.A. Castoe. Physiological demands and signaling mechanisms associated with snake venom production and storage illustrated by transcriptional analyses of venom glands. __*Scientific Reports*__ 10: 18083. [link](https://www.nature.com/articles/s41598-020-75048-y) [PDF](https://drewschield.github.io/pubs/Perry2020SciReports.pdf)
 
