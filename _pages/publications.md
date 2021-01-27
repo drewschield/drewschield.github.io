@@ -10,6 +10,10 @@ author_profile: true
 
 __*PDFs for individual use only*__
 
+### 2021
+
+__Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2021. Population genomic analyses confirm male-biased mutation rates in snakes. __*Journal of Heredity*__ esab005. [Link](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977)
+
 ### 2020
 
 __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2020. Snake recombination landscapes are concentrated in functional regions despite PRDM9. __*Molecular Biology and Evolution*__ 37: 1272-1294. [Link](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msaa003/5700722) [PDF](https://drewschield.github.io/pubs/Schield2020_MBE_format.pdf)
