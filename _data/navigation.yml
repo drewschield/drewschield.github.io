@@ -6,6 +6,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "GitHub"
+    url: /github/
   - title: "Photos"
     url: /photos/
   - title: "Contact"
