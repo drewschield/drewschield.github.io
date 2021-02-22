@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "GitHub"
 permalink: /github/
+classes: wide
 ---
 
 *Links to GitHub repositories for recent studies:*
@@ -11,4 +13,4 @@ We compared levels of autosomal and Z-linked sequence divergence between rattles
 
 [Z-linked and autosomal genomic variation in barn swallows](https://github.com/drewschield/Z-chromosome_analysis_hirundo){: .btn .btn--info .text-center}
 
-Using a whole-genome resequencing dataset, we explored genetic diversity and differentiation across the genome between barn swallow (*Hirundo rustica*) subspecies. We compared variation on the Z chromosomes and autosomes to infer how different evolutionary processes have impacted sex-linked genetic diversity in this young species complex. We inferred that low sex-linked diversity has been shaped by a combination of excess variance in male reproductive success, recent population bottlenecks, linked selection, and reduced gene flow on the Z chromosome.
+Using a whole-genome resequencing dataset, we explored genetic diversity and differentiation across the genome between barn swallow (*Hirundo rustica*) subspecies. We compared variation on the Z chromosomes and autosomes to understand how different evolutionary processes have impacted sex-linked genetic diversity in this young species complex. We found evidence that low sex-linked diversity has been shaped by a combination of excess variance in male reproductive success, recent population bottlenecks, linked selection, and reduced gene flow on the Z chromosome.
