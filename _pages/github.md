@@ -3,8 +3,8 @@ title: "GitHub"
 permalink: /github/
 ---
 
-Below are links to GitHub repositories for recent studies:
+Links to GitHub repositories for recent studies:
 
-* [Male-biased mutation rates in rattlesnakes](https://github.com/drewschield/male-biased_mutation_crotalus)
+__[Male-biased mutation rates in rattlesnakes]__(https://github.com/drewschield/male-biased_mutation_crotalus)
 
-* [Z-linked and autosomal genomic variation in barn swallows](https://github.com/drewschield/Z-chromosome_analysis_hirundo)
+__[Z-linked and autosomal genomic variation in barn swallows]__(https://github.com/drewschield/Z-chromosome_analysis_hirundo)
