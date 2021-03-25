@@ -12,11 +12,11 @@ __*PDFs for individual use only*__
 
 ### 2021
 
-__Schield, D.R.__, E.S.C. Scordato, C.C.R. Smith, J.K. Carter, S.I. Cherkaoui, S. Gombobaatar, S. Hajib, S. Hanane, A.K. Hund, K. Koyama, W. Liang, Y. Liu, N. Magri, A. Rubtsov, B. Sheta, S.P. Turbek, M.R. Wilkins, L. Yu, and R.J. Safran. Sex-linked genetic diversity and differentiation in a globally distributed avian species complex. In press at __*Molecular Ecology*__. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15885)
+__Schield, D.R.__, E.S.C. Scordato, C.C.R. Smith, J.K. Carter, S.I. Cherkaoui, S. Gombobaatar, S. Hajib, S. Hanane, A.K. Hund, K. Koyama, W. Liang, Y. Liu, N. Magri, A. Rubtsov, B. Sheta, S.P. Turbek, M.R. Wilkins, L. Yu, and R.J. Safran. Sex-linked genetic diversity and differentiation in a globally distributed avian species complex. In press at __*Molecular Ecology*__. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15885) [Accepted version PDF](https://drewschield.github.io/pubs/Schield2021MolEcol_accepted.pdf)
 
-Schortt, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, __D.R. Schield__, B.W. Perry, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, and D.D. Pollock. Population genomic analyses of schistosome parasites highlights critical challenges facing end-game elimination efforts. In press at __*Scientific Reports*__. 
+Schortt, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, __D.R. Schield__, B.W. Perry, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, and D.D. Pollock. 2021. Population genomic analyses of schistosome parasites highlights critical challenges facing end-game elimination efforts. __*Scientific Reports*__ 11: 6884. [Link](https://www.nature.com/articles/s41598-021-86287-y) [PDF](https://drewschield.github.io/pubs/Schortt2021SciRep.pdf)
 
-__Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2021. Population genomic analyses confirm male-biased mutation rates in snakes. __*Journal of Heredity*__ esab005. [Link](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977)
+__Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2021. Population genomic analyses confirm male-biased mutation rates in snakes. __*Journal of Heredity*__ esab005. [Link](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977) [PDF](https://drewschield.github.io/pubs/Schield2021JHeredity_corrected.pdf)
 
 ### 2020
 
