@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2021
 
-__Schield, D.R.__, E.S.C. Scordato, C.C.R. Smith, J.K. Carter, S.I. Cherkaoui, S. Gombobaatar, S. Hajib, S. Hanane, A.K. Hund, K. Koyama, W. Liang, Y. Liu, N. Magri, A. Rubtsov, B. Sheta, S.P. Turbek, M.R. Wilkins, L. Yu, and R.J. Safran. 2021. Sex-linked genetic diversity and differentiation in a globally distributed avian species complex. In press at __*Molecular Ecology*__. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15885) [PDF](https://drewschield.github.io/pubs/Schield2021MolEcol.pdf)
+__Schield, D.R.__, E.S.C. Scordato, C.C.R. Smith, J.K. Carter, S.I. Cherkaoui, S. Gombobaatar, S. Hajib, S. Hanane, A.K. Hund, K. Koyama, W. Liang, Y. Liu, N. Magri, A. Rubtsov, B. Sheta, S.P. Turbek, M.R. Wilkins, L. Yu, and R.J. Safran. 2021. Sex-linked genetic diversity and differentiation in a globally distributed avian species complex. __*Molecular Ecology*__ 30:2313-2332. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15885) [PDF](https://drewschield.github.io/pubs/Schield2021MolEcol.pdf)
 
 __Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K. Westfall, and T.A. Castoe. 2021. Applications of genomics and related technologies for studying reptile venoms. Pp. 29-42. In: __*Handbook of Venoms and Toxins of Reptiles, Second Edition*__, S.P. Mackessy (Ed.), CRC Press, Boca Raton FL. [PDF](https://drewschield.github.io/pubs/Schield_etal_2021_VenomChapter.pdf)
 
