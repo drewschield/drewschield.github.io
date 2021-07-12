@@ -12,6 +12,8 @@ __*PDFs for individual use only*__
 
 ### 2021
 
+Farleigh, K., S.A. Vladimirova, C. Blair, J.T. Bracken, N. Koochekian, N. Finger, __D.R. Schield__, D.C. Card, J. Henault, A.D. Leaché, T.A. Castoe, and T. Jezkova. 2021. Interaction of selection and drift in shaping genomic variation across populations of the Desert Horned Lizard (*Phrynosoma platyrhinos*). *Accepted at* __*Molecular Ecology*__.
+
 __Schield, D.R.__, E.S.C. Scordato, C.C.R. Smith, J.K. Carter, S.I. Cherkaoui, S. Gombobaatar, S. Hajib, S. Hanane, A.K. Hund, K. Koyama, W. Liang, Y. Liu, N. Magri, A. Rubtsov, B. Sheta, S.P. Turbek, M.R. Wilkins, L. Yu, and R.J. Safran. 2021. Sex-linked genetic diversity and differentiation in a globally distributed avian species complex. __*Molecular Ecology*__ 30:2313-2332. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15885) [PDF](https://drewschield.github.io/pubs/Schield2021MolEcol.pdf)
 
 __Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K. Westfall, and T.A. Castoe. 2021. Applications of genomics and related technologies for studying reptile venoms. Pp. 29-42. In: __*Handbook of Venoms and Toxins of Reptiles, Second Edition*__, S.P. Mackessy (Ed.), CRC Press, Boca Raton FL. [PDF](https://drewschield.github.io/pubs/Schield_etal_2021_VenomChapter.pdf)
@@ -28,7 +30,7 @@ __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K.
 
 __Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K. Westfall, and T.A. Castoe. Applications of genomics and related technologies for studying reptile venoms. In Press in __*Handbook of Venom and Toxins of Reptiles, Second Edition*__.
 
-Z.L. Nikolakis, N.R. Hales, B.W. Perry, __D.R. Schield__, L.E. Timm, Y. Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe. Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_). Accepted at __*PLoS Neglected Tropical Diseases*__.
+Z.L. Nikolakis, N.R. Hales, B.W. Perry, __D.R. Schield__, L.E. Timm, Y. Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe. Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_). __*PLoS Neglected Tropical Diseases*__ 15:e0009020.
 
 B.W. Perry, __D.R. Schield__, R.H. Adams, and T.A. Castoe. Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution. __*Molecular Biology and Evolution*__. [Link](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540) [PDF](https://drewschield.github.io/pubs/Perry2020MBE.pdf)
 
