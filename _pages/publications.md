@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2021
 
-Farleigh, K., S.A. Vladimirova, C. Blair, J.T. Bracken, N. Koochekian, N. Finger, __D.R. Schield__, D.C. Card, J. Henault, A.D. Leaché, T.A. Castoe, and T. Jezkova. 2021. Interaction of selection and drift in shaping genomic variation across populations of the Desert Horned Lizard (*Phrynosoma platyrhinos*). *Accepted at* __*Molecular Ecology*__.
+Farleigh, K., S.A. Vladimirova, C. Blair, J.T. Bracken, N. Koochekian, N. Finger, __D.R. Schield__, D.C. Card, J. Henault, A.D. Leaché, T.A. Castoe, and T. Jezkova. 2021. Interaction of selection and drift in shaping genomic variation across populations of the Desert Horned Lizard (*Phrynosoma platyrhinos*). *In press at* __*Molecular Ecology*__. [link](https://onlinelibrary.wiley.com/doi/10.1111/mec.16070) [PDF](https://drewschield.github.io/pubs/Farleigh2021MolEcol.pdf)
 
 __Schield, D.R.__, E.S.C. Scordato, C.C.R. Smith, J.K. Carter, S.I. Cherkaoui, S. Gombobaatar, S. Hajib, S. Hanane, A.K. Hund, K. Koyama, W. Liang, Y. Liu, N. Magri, A. Rubtsov, B. Sheta, S.P. Turbek, M.R. Wilkins, L. Yu, and R.J. Safran. 2021. Sex-linked genetic diversity and differentiation in a globally distributed avian species complex. __*Molecular Ecology*__ 30:2313-2332. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15885) [PDF](https://drewschield.github.io/pubs/Schield2021MolEcol.pdf)
 
