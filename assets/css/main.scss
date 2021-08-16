@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-$link-color: green;
-$buttoncolors: green;
+$link-color: green; // delete to return to default
+$info-color: green; // delete to return to default
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
