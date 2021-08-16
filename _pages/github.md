@@ -7,6 +7,10 @@ classes: wide
 
 *Links to GitHub repositories for recent studies:*
 
+[Rattlesnake venom population genomics](https://github.com/drewschield/venom_population_genomics)
+
+We analyzed population genomic data from venom gene regions in rattlesnake populations to characterize genetic diversity and signatures of selection.
+
 [Male-biased mutation rates in rattlesnakes](https://github.com/drewschield/male-biased_mutation_crotalus){: .btn .btn--info .text-center}
 
 We compared levels of autosomal and Z-linked sequence divergence between rattlesnake (*Crotalus*) species to infer a ratio of male-to-female mutation rate. We found evidence of a ~2-fold male-biased mutation rate, which has ramifications for rates of evolution in sex-linked genes in snakes.
