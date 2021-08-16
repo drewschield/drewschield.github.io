@@ -7,7 +7,7 @@ classes: wide
 
 *Links to GitHub repositories for recent studies:*
 
-[Rattlesnake venom population genomics](https://github.com/drewschield/venom_population_genomics)<a href="#" class="btn btn-info">Success Button</a>
+<a href="#" class="btn btn-info">[Rattlesnake venom population genomics](https://github.com/drewschield/venom_population_genomics)</a>
 
 We analyzed population genomic data from venom gene regions in rattlesnake populations to characterize genetic diversity and signatures of selection.
 
