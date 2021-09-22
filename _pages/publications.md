@@ -23,7 +23,7 @@ __Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K.
 Schortt, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, __D.R. Schield__, B.W. Perry, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, and D.D. Pollock. 2021. Population genomic analyses of schistosome parasites highlights critical challenges facing end-game elimination efforts. __*Scientific Reports*__ 11: 6884. [Link](https://www.nature.com/articles/s41598-021-86287-y) [PDF](https://drewschield.github.io/pubs/Schortt2021SciRep.pdf)
 
 __Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2021. Population genomic analyses confirm male-biased mutation rates in snakes. __*Journal of Heredity*__ 122:221-227. [Link](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977) [PDF](https://drewschield.github.io/pubs/Schield2021JHeredity_corrected.pdf)
-	(You can also check out this [feature](https://blog.theaga.org/behind-the-science-male-biased-mutation-rates-in-snakes/) on the AGA Blog.)
+* (You can also check out this [feature](https://blog.theaga.org/behind-the-science-male-biased-mutation-rates-in-snakes/) on the AGA Blog.)
 
 ### 2020
 
