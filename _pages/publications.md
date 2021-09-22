@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2021
 
-Alaya, M.J.†, J.K. Carter†, A.S. Fachon†, S.M. Flaxman†, M.A. Gil†, H.V. Kenny, Z.M. Laubach†, S.A. Madden†, M.T. McDermott†, A. Medina-García†, R.J. Safran†, E. Scherner†, __D.R. Schield†__, S. Vasquez-Rey†, and J. Volckens†. Belonging in STEM: an interactive, iterative approach to create and maintain a diverse learning community. *In press at* __*Trends in Ecology and Evolution*__. (\†Co-first authors) [link](https://www.sciencedirect.com/science/article/pii/S0169534721002226?dgcid=coauthor) [PDF](https://drewschield.github.io/pubs/Alaya2021TREE.pdf) 
+Alaya, M.J.†, J.K. Carter†, A.S. Fachon†, S.M. Flaxman†, M.A. Gil†, H.V. Kenny, Z.M. Laubach†, S.A. Madden†, M.T. McDermott†, A. Medina-García†, R.J. Safran†, E. Scherner†, __D.R. Schield†__, S. Vasquez-Rey†, and J. Volckens†. Belonging in STEM: an interactive, iterative approach to create and maintain a diverse learning community. *In press at* __*Trends in Ecology and Evolution*__. (†Co-first authors) [link](https://www.sciencedirect.com/science/article/pii/S0169534721002226?dgcid=coauthor) [PDF](https://drewschield.github.io/pubs/Alaya2021TREE.pdf) 
 
 Farleigh, K., S.A. Vladimirova, C. Blair, J.T. Bracken, N. Koochekian, N. Finger, __D.R. Schield__, D.C. Card, J. Henault, A.D. Leaché, T.A. Castoe, and T. Jezkova. 2021. Interaction of selection and drift in shaping genomic variation across populations of the Desert Horned Lizard (*Phrynosoma platyrhinos*). *In press at* __*Molecular Ecology*__. [link](https://onlinelibrary.wiley.com/doi/10.1111/mec.16070) [PDF](https://drewschield.github.io/pubs/Farleigh2021MolEcol.pdf)
 
@@ -22,7 +22,8 @@ __Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K.
 
 Schortt, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, __D.R. Schield__, B.W. Perry, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, and D.D. Pollock. 2021. Population genomic analyses of schistosome parasites highlights critical challenges facing end-game elimination efforts. __*Scientific Reports*__ 11: 6884. [Link](https://www.nature.com/articles/s41598-021-86287-y) [PDF](https://drewschield.github.io/pubs/Schortt2021SciRep.pdf)
 
-__Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2021. Population genomic analyses confirm male-biased mutation rates in snakes. __*Journal of Heredity*__ 122:221-227. [Link](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977) [PDF](https://drewschield.github.io/pubs/Schield2021JHeredity_corrected.pdf) (You can also check out this [feature](https://blog.theaga.org/behind-the-science-male-biased-mutation-rates-in-snakes/) on the AGA Blog.)
+__Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2021. Population genomic analyses confirm male-biased mutation rates in snakes. __*Journal of Heredity*__ 122:221-227. [Link](https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977) [PDF](https://drewschield.github.io/pubs/Schield2021JHeredity_corrected.pdf)
+	(You can also check out this [feature](https://blog.theaga.org/behind-the-science-male-biased-mutation-rates-in-snakes/) on the AGA Blog.)
 
 ### 2020
 
@@ -49,7 +50,7 @@ Watson, J.A., C.L. Spencer, __D.R. Schield__, B.O. Butler, L.L. Smith, O. Flores
 Perry, B.W., A.L. Andrew, A.H.M. Kamal, D.C. Card, __D.R. Schield__, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe. Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration. __*Proceedings of the Royal Society of London B*__ 286: 20190910. [Link](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2019.0910) [PDF](https://drewschield.github.io/pubs/Perry2019ProcB.pdf)
 
 __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe. Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation. 2019. __*Biological Journal of the Linnean Society*__ 128: 149-169.  
-(\†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649) [PDF](https://drewschield.github.io/pubs/SchieldPerry2019BiolJLinnSoc.pdf)
+(†Co-first authors) [Link](https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649) [PDF](https://drewschield.github.io/pubs/SchieldPerry2019BiolJLinnSoc.pdf)
 
 __Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. The origins and evolution of chromosomes, dosage compensation, and mechanisms underlying venom regulation in snakes.  __*Genome Research*__ 29: 590-601. [Link](https://genome.cshlp.org/content/29/4/590) [PDF](https://drewschield.github.io/pubs/Schield2019GenomeRes.pdf)
 
