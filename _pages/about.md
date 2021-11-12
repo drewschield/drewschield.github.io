@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 ## Drew R. Schield, Ph.D.
-### NSF Postdoctoral Research Fellow [CV](https://drewschield.github.io/CV/Schield_CV_07.21.21.pdf)
+### NSF Postdoctoral Research Fellow [CV](https://drewschield.github.io/CV/Schield_CV_11.10.21.pdf)
 [The Safran Lab](http://www.safran-lab.com/), University of Colorado
 
 Previously [The Castoe Lab](https://www.castoelaboratory.org/), University of Texas Arlington
