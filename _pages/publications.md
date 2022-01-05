@@ -10,6 +10,12 @@ author_profile: true
 
 __*PDFs for individual use only*__
 
+### 2022
+
+Turbek, S.P., __D.R. Schield__, E.S.C. Scordato, A. Contina, X. Da, Y. Liu, E. Pagani-núñez, Q. Ren, C.C.R. Smith, C. Stricker, M. Wunder, D. Zonana, and R.J. Safran. _Accepted_. A migratory divide spanning two continents is associated with genomic and ecological divergence. __*Evolution*__.
+
+Westfall, A.K., B.W. Perry, A.H.M. Kamal, N.R. Hales, J.C. Kay, M. Sapkota, __D.R. Schield__, M.W. Pellegrino, S.M. Secor, S.M. Chowdhury, and T.A. Castoe. 2022. Identification of an integrated stress and growth response signaling switch that directs vertebrate intestinal regeneration. __*BMC Genomics*__ 23:6. [link]() [PDF](https://drewschield.github.io/pubs/Westfall2022BMCgenomics.pdf)
+
 ### 2021
 
 Alaya, M.J.†, J.K. Carter†, A.S. Fachon†, S.M. Flaxman†, M.A. Gil†, H.V. Kenny, Z.M. Laubach†, S.A. Madden†, M.T. McDermott†, A. Medina-García†, R.J. Safran†, E. Scherner†, __D.R. Schield†__, S. Vasquez-Rey†, and J. Volckens†. Belonging in STEM: an interactive, iterative approach to create and maintain a diverse learning community. *In press at* __*Trends in Ecology and Evolution*__. (†Co-first authors) [link](https://www.sciencedirect.com/science/article/pii/S0169534721002226?dgcid=coauthor) [PDF](https://drewschield.github.io/pubs/Alaya2021TREE.pdf) 
@@ -30,8 +36,6 @@ __Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2
 __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2020. Snake recombination landscapes are concentrated in functional regions despite PRDM9. __*Molecular Biology and Evolution*__ 37: 1272-1294. [Link](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msaa003/5700722) [PDF](https://drewschield.github.io/pubs/Schield2020_MBE_format.pdf)
 
 (*Recombination maps are available* [here](https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224))
-
-__Schield, D.R.__, B.W. Perry, G.I.M. Pasquesi, R.W. Orton, Z.L. Nikolakis, A.K. Westfall, and T.A. Castoe. Applications of genomics and related technologies for studying reptile venoms. In Press in __*Handbook of Venom and Toxins of Reptiles, Second Edition*__.
 
 Z.L. Nikolakis, N.R. Hales, B.W. Perry, __D.R. Schield__, L.E. Timm, Y. Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe. Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_). __*PLoS Neglected Tropical Diseases*__ 15:e0009020.
 
