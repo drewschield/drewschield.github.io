@@ -12,6 +12,10 @@ __*PDFs for individual use only*__
 
 ### 2022
 
+__Schield, D.R.__, B.W. Perry, R.H. Adams, M.L. Holding, Z.L. Nikolakis, S.S. Gopalan, C.F. Smith, J.M. Parker, J.M. Meik, M. DeGiorgio, S.P. Mackessy, and T.A. Castoe. The roles of balancing selection and recombination in the evolution of rattlesnake venom. __*Nature Ecology and Evolution*__
+
+Perry, B.W., S.S. Gopalan, G.I.M. Pasquesi, __D.R. Schield__, A.K. Westfall, C.F. Smith, I. Koludarov, P.T. Chippendale, M.W. Pellegrino, E.B. Chuong, S.P. Mackessy, and T.A. Castoe. Snake venom gene expression is coordinated by novel regulatory architecture and the integration of multiple co-opted vertebrate pathways. __*Genome Research*__ [link](https://genome.cshlp.org/content/early/2022/05/27/gr.276251.121.full.pdf+html) [pdf](https://drewschield.github.io/pubs/Perry2022GenomeRes.pdf)
+
 Turbek, S.P., __D.R. Schield__, E.S.C. Scordato, A. Contina, X. Da, Y. Liu, E. Pagani-núñez, Q. Ren, C.C.R. Smith, C. Stricker, M. Wunder, D. Zonana, and R.J. Safran. 2022. A migratory divide spanning two continents is associated with genomic and ecological divergence. __*Evolution*__. [link](https://onlinelibrary.wiley.com/doi/10.1111/evo.14448) [PDF](https://drewschield.github.io/pubs/Turbek2022Evolution.pdf)
 
 Koochekian, N., A. Ascanio, K. Farleigh, D.C. Card, __D.R. Schield__, T.A. Castoe, and T. Jezkova. 2022. A chromosome-level genome assembly and annotation of the desert horned lizard, _Phrynosoma platyrhinos_, provides insight into chromosomal rearrangements among reptiles. __*GigaScience*__ 11: 1-14. [link](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giab098/6521878?login=true) [pdf](https://drewschield.github.io/pubs/Koochekian2022GigaScience.pdf)
