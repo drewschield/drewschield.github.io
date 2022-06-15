@@ -41,7 +41,7 @@ __Schield, D.R.__, B.W. Perry, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe. 2
 
 __Schield, D.R.__, G.I.M. Pasquesi, B.W. Perry, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2020. Snake recombination landscapes are concentrated in functional regions despite PRDM9. __*Molecular Biology and Evolution*__ 37: 1272-1294. [Link](https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msaa003/5700722) [PDF](https://drewschield.github.io/pubs/Schield2020_MBE_format.pdf)
 
-(*Recombination maps are available* [here](https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224))
+* (*Recombination maps are available* [here](https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224))
 
 Z.L. Nikolakis, N.R. Hales, B.W. Perry, __D.R. Schield__, L.E. Timm, Y. Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe. Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_). __*PLoS Neglected Tropical Diseases*__ 15:e0009020.
 
@@ -64,7 +64,7 @@ __Schield, D.R.†__, B. W. Perry†, R. H. Adams, D. C. Card, T. Jezkova, G. I.
 
 __Schield, D.R.__, D.C. Card, N.M. Hales, B.W. Perry, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe. 2019. The origins and evolution of chromosomes, dosage compensation, and mechanisms underlying venom regulation in snakes.  __*Genome Research*__ 29: 590-601. [Link](https://genome.cshlp.org/content/29/4/590) [PDF](https://drewschield.github.io/pubs/Schield2019GenomeRes.pdf)
 
-(*Genome data are available* [here](https://figshare.com/projects/Prairie_rattlesnake_Crotalus_viridis_genome_assembly_and_annotation/66560))
+* (*Genome data are available* [here](https://figshare.com/projects/Prairie_rattlesnake_Crotalus_viridis_genome_assembly_and_annotation/66560))
 
 Adams, R.H., __D.R. Schield__, and T.A. Castoe. Recent advances in the inference of gene flow from population genomic data. __*Current Molecular Biology Reports*__ 5: 107-115. (Invited Article). [PDF](https://drewschield.github.io/pubs/Adams2019CurMolBiolRep.pdf)
 
