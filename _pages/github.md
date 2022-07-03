@@ -7,6 +7,10 @@ classes: wide
 
 *Links to GitHub repositories for recent studies:*
 
+[Rattlesnake W chromosome](https://github.com/drewschield/rattlesnake_w_chromosome){: .btn .btn--info .text-center}
+
+We assembled and analyzed the female-specific W chromosome of the prairie rattlesnake and performed analyses to understand the evolutionary history of ZW sex chromosomes in caenophidian snakes, the unique composition of the W chromosome, and what genes have survived ongoing genetic decay.
+
 [Rattlesnake venom population genomics](https://github.com/drewschield/venom_population_genomics){: .btn .btn--info .text-center}
 
 We analyzed population genomic data from venom gene regions in rattlesnake populations to characterize genetic diversity and signatures of selection.
