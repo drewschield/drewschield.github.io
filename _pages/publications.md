@@ -14,7 +14,9 @@ __*PDFs for individual use only*__
 
 __Schield, D.R.__, B.W. Perry, R.H. Adams, M.L. Holding, Z.L. Nikolakis, S.S. Gopalan, C.F. Smith, J.M. Parker, J.M. Meik, M. DeGiorgio, S.P. Mackessy, and T.A. Castoe. The roles of balancing selection and recombination in the evolution of rattlesnake venom. __*Nature Ecology and Evolution*__
 
-Perry, B.W., S.S. Gopalan, G.I.M. Pasquesi, __D.R. Schield__, A.K. Westfall, C.F. Smith, I. Koludarov, P.T. Chippendale, M.W. Pellegrino, E.B. Chuong, S.P. Mackessy, and T.A. Castoe. Snake venom gene expression is coordinated by novel regulatory architecture and the integration of multiple co-opted vertebrate pathways. __*Genome Research*__ [link](https://genome.cshlp.org/content/early/2022/05/27/gr.276251.121.full.pdf+html) [pdf](https://drewschield.github.io/pubs/Perry2022GenomeRes.pdf)
+Gopalan, S.S., B.W. Perry, __D.R. Schield__, C.F. Smith, S.P. Mackessy, and T.A. Castoe. Origins, genomic structure and copy number variation of snake venom myotoxins. __*Toxicon*__ 216: 92-106. [link](https://www.sciencedirect.com/science/article/pii/S0041010122002033) [PDF](https://drewschield.github.io/pubs/Gopalan2022Toxicon.pdf)
+
+Perry, B.W., S.S. Gopalan, G.I.M. Pasquesi, __D.R. Schield__, A.K. Westfall, C.F. Smith, I. Koludarov, P.T. Chippendale, M.W. Pellegrino, E.B. Chuong, S.P. Mackessy, and T.A. Castoe. Snake venom gene expression is coordinated by novel regulatory architecture and the integration of multiple co-opted vertebrate pathways. __*Genome Research*__ [link](https://genome.cshlp.org/content/early/2022/05/27/gr.276251.121.full.pdf+html) [PDF](https://drewschield.github.io/pubs/Perry2022GenomeRes.pdf)
 
 Turbek, S.P., __D.R. Schield__, E.S.C. Scordato, A. Contina, X. Da, Y. Liu, E. Pagani-núñez, Q. Ren, C.C.R. Smith, C. Stricker, M. Wunder, D. Zonana, and R.J. Safran. 2022. A migratory divide spanning two continents is associated with genomic and ecological divergence. __*Evolution*__. [link](https://onlinelibrary.wiley.com/doi/10.1111/evo.14448) [PDF](https://drewschield.github.io/pubs/Turbek2022Evolution.pdf)
 
