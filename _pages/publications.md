@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2022
 
-__Schield, D.R.__, B.W. Perry, R.H. Adams, M.L. Holding, Z.L. Nikolakis, S.S. Gopalan, C.F. Smith, J.M. Parker, J.M. Meik, M. DeGiorgio, S.P. Mackessy, and T.A. Castoe. The roles of balancing selection and recombination in the evolution of rattlesnake venom. __*Nature Ecology and Evolution*__. [link](https://www.nature.com/articles/s41559-022-01829-5#Sec22) [PDF](https://drewschield.github.io/pubs/Gopalan2022Toxicon.pdf)
+__Schield, D.R.__, B.W. Perry, R.H. Adams, M.L. Holding, Z.L. Nikolakis, S.S. Gopalan, C.F. Smith, J.M. Parker, J.M. Meik, M. DeGiorgio, S.P. Mackessy, and T.A. Castoe. The roles of balancing selection and recombination in the evolution of rattlesnake venom. __*Nature Ecology and Evolution*__. [link](https://www.nature.com/articles/s41559-022-01829-5#Sec22) [PDF](https://drewschield.github.io/pubs/Schield2022NatureEE.pdf)
 
 Gopalan, S.S., B.W. Perry, __D.R. Schield__, C.F. Smith, S.P. Mackessy, and T.A. Castoe. Origins, genomic structure and copy number variation of snake venom myotoxins. __*Toxicon*__ 216: 92-106. [link](https://www.sciencedirect.com/science/article/pii/S0041010122002033) [PDF](https://drewschield.github.io/pubs/Gopalan2022Toxicon.pdf)
 
