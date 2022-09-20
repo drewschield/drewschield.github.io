@@ -13,7 +13,7 @@ __*PDFs for individual use only*__
 ### 2022
 
 __Schield, D.R.__, B.W. Perry, R.H. Adams, M.L. Holding, Z.L. Nikolakis, S.S. Gopalan, C.F. Smith, J.M. Parker, J.M. Meik, M. DeGiorgio, S.P. Mackessy, and T.A. Castoe. The roles of balancing selection and recombination in the evolution of rattlesnake venom. __*Nature Ecology and Evolution*__ 6: 1367-1380. [link](https://www.nature.com/articles/s41559-022-01829-5#Sec22) [PDF](https://drewschield.github.io/pubs/Schield2022NatureEE.pdf)
-* [Supplement](https://drewschield.github.io/pubs/Schield2022NatureEE_supplement_.pdf)
+* [Supplement](https://drewschield.github.io/pubs/Schield2022NatureEE_supplement.pdf)
 
 __Schield, D.R.__, B.W. Perry, D.C. Card, G.I.M. Pasquesi, A.K. Westfall, S.P. Mackessy, and T.A. Castoe. 2022. The rattlesnake W chromosome: A GC-rich retroelement refugium with retained gene function across ancient evolutionary strata. __*Genome Biology and Evolution*__ 14: evac116. [link](https://academic.oup.com/gbe/article/14/9/evac116/6648526) [PDF](https://drewschield.github.io/pubs/Schield2022GBE.pdf)
 
