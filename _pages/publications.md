@@ -12,6 +12,10 @@ __*PDFs for individual use only*__
 
 ### 2022
 
+Carter, J.K., R.T. Kimball, E.R. Funk, N.C. Kane, __D.R. Schield__, G.M. Spellman, and R.J. Safran. 2022. Estimating phylogenies from genomes: A beginner’s review of commonly used genomic data in vertebrate phylogenomics. Journal of Heredity.
+
+Nikolakis, Z.L., __D.R. Schield__, A.K. Westfall, B.W. Perry, K.N. Ivey, R.W. Orton, N.R. Hales, R.H. Adams, J.M. Meik, J. Parker, C.F. Smith, Z. Gompert, S.P. Mackessy, and T.A. Castoe. 2022. Evidence that genomic incompatibilities and other multilocus processes impact hybrid fitness in a rattlesnake hybrid zone. __*Evolution*__ evo.14612. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14612) [PDF](https://drewschield.github.io/pubs/Nikolakis2022Evolution.pdf)
+
 __Schield, D.R.__, B.W. Perry, R.H. Adams, M.L. Holding, Z.L. Nikolakis, S.S. Gopalan, C.F. Smith, J.M. Parker, J.M. Meik, M. DeGiorgio, S.P. Mackessy, and T.A. Castoe. The roles of balancing selection and recombination in the evolution of rattlesnake venom. __*Nature Ecology and Evolution*__ 6: 1367-1380. [link](https://www.nature.com/articles/s41559-022-01829-5) [PDF](https://drewschield.github.io/pubs/Schield2022NatureEE.pdf) [Supplement](https://drewschield.github.io/pubs/Schield2022NatureEE_supplement.pdf)
 
 __Schield, D.R.__, B.W. Perry, D.C. Card, G.I.M. Pasquesi, A.K. Westfall, S.P. Mackessy, and T.A. Castoe. 2022. The rattlesnake W chromosome: A GC-rich retroelement refugium with retained gene function across ancient evolutionary strata. __*Genome Biology and Evolution*__ 14: evac116. [link](https://academic.oup.com/gbe/article/14/9/evac116/6648526) [PDF](https://drewschield.github.io/pubs/Schield2022GBE.pdf)
