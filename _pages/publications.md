@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2022
 
-Carter, J.K., R.T. Kimball, E.R. Funk, N.C. Kane, __D.R. Schield__, G.M. Spellman, and R.J. Safran. 2022. Estimating phylogenies from genomes: A beginner’s review of commonly used genomic data in vertebrate phylogenomics. Journal of Heredity.
+Carter, J.K., R.T. Kimball, E.R. Funk, N.C. Kane, __D.R. Schield__, G.M. Spellman, and R.J. Safran. 2022. Estimating phylogenies from genomes: A beginner’s review of commonly used genomic data in vertebrate phylogenomics. __*Journal of Heredity*__.
 
 Nikolakis, Z.L., __D.R. Schield__, A.K. Westfall, B.W. Perry, K.N. Ivey, R.W. Orton, N.R. Hales, R.H. Adams, J.M. Meik, J. Parker, C.F. Smith, Z. Gompert, S.P. Mackessy, and T.A. Castoe. 2022. Evidence that genomic incompatibilities and other multilocus processes impact hybrid fitness in a rattlesnake hybrid zone. __*Evolution*__ evo.14612. [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14612) [PDF](https://drewschield.github.io/pubs/Nikolakis2022Evolution.pdf)
 
