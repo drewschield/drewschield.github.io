@@ -12,7 +12,7 @@ __*PDFs for individual use only*__
 
 ### 2023
 
-Smith, C.F., Nikolakis, Z.L., Perry, B.W., __Schield, D.R.__, Balchan, N.R., Parker, J., Ivey, K., Hansen, K.C., Saviola, A.J., Castoe, T.A., Mackessy, S.P. 2023. Snakes on a plain: Biotic and abiotic factors determine venom compositional variation in a wide-ranging generalist rattlesnake. __*BMC Biology*__ 21: 136. [link](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-023-01626-x) [PDF](https://drewschield.github.io/pubs/Smith2023BMCBiology.pdf)
+Smith, C.F., Nikolakis, Z.L., Perry, B.W., Ivey, K., __Schield, D.R.__, Balchan, N.R., Parker, J., Hansen, K.C., Saviola, A.J., Castoe, T.A., Mackessy, S.P. 2023. Snakes on a plain: Biotic and abiotic factors determine venom compositional variation in a wide-ranging generalist rattlesnake. __*BMC Biology*__ 21: 136. [link](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-023-01626-x) [PDF](https://drewschield.github.io/pubs/Smith2023BMCBiology.pdf)
 
 Carter, J.K., R.T. Kimball, E.R. Funk, N.C. Kane, __D.R. Schield__, G.M. Spellman, and R.J. Safran. 2023. Estimating phylogenies from genomes: A beginner’s review of commonly used genomic data in vertebrate phylogenomics. __*Journal of Heredity*__. [link](https://academic.oup.com/jhered/article/114/1/1/7046258) [PDF](https://drewschield.github.io/pubs/Carter2023JHeredity.pdf)
 
