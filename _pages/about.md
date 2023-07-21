@@ -24,4 +24,4 @@ Incoming assistant professor in the [Department of Biology](https://bio.as.virgi
 - Sex chromosome evolution
 - Genome structure and function
 
-*Crater, profile, rattlesnake images on main pages courtesy of collaborator [Blair Perry](https://blairperry.net/).*
+*Crater, profile, rattlesnake images on main pages courtesy of [Blair Perry](https://blairperry.net/).*
