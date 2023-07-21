@@ -11,8 +11,8 @@ Incoming Assistant Professor in the [Department of Biology](https://bio.as.virgi
 - Interested in doing postdoc in the lab? Please reach out to talk about research ideas and opportunities! 
 
 ### Positions
-- NSF postdoctoral research fellow (Feb 2020 - present) | [Safran Lab](http://www.safran-lab.com/) | University of Colorado Boulder
-- Postdoctoral researcher (June 2018 - Jan 2020) | [Castoe Lab](https://www.castoelaboratory.org/) | University of Texas at Arlington
+- NSF postdoctoral research fellow (Feb 2020 - present) in the [Safran Lab](http://www.safran-lab.com/) at University of Colorado Boulder
+- Postdoctoral researcher (June 2018 - Jan 2020) in the [Castoe Lab](https://www.castoelaboratory.org/) at University of Texas at Arlington
 
 ### Degrees
 - Ph.D. – Quantitative Biology, University of Texas at Arlington, 2018  
