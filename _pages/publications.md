@@ -12,7 +12,9 @@ __*PDFs for individual use only*__
 
 ### 2023
 
-Smith, C.F., Z.L. Nikolakis, B.W. Perry, __D.R. Schield__, J.M. Meik, A.J. Saviola, T.A. Castoe, J. Parker, and S.P. Mackessy. 2023. The best of both worlds? Rattlesnake hybrid zones generate complex combinations of divergent venom phenotypes that retain high toxicity. __*Biochimie*__.
+Farleigh, K., A. Ascanio, M.E. Farleigh, __D.R. Schield__, D.C. Card, M. Leal, T.A. Castoe, T. Jezkova, and J.A. Rodríguez-Robles. 2023. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Molecular Ecology*__ 32: 6000–6017. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170) [PDF](https://drewschield.github.io/pubs/Farleigh2023MolEcol.pdf)
+
+Smith, C.F., Z.L. Nikolakis, B.W. Perry, __D.R. Schield__, J.M. Meik, A.J. Saviola, T.A. Castoe, J. Parker, and S.P. Mackessy. 2023. The best of both worlds? Rattlesnake hybrid zones generate complex combinations of divergent venom phenotypes that retain high toxicity. __*Biochimie*__ 213: 176-189. [link](https://www.sciencedirect.com/science/article/pii/S0300908423001694) [PDF](https://drewschield.github.io/pubs/Smith2023Biochimie.pdf)
 
 Smith, C.F., Nikolakis, Z.L., Perry, B.W., Ivey, K., __Schield, D.R.__, Balchan, N.R., Parker, J., Hansen, K.C., Saviola, A.J., Castoe, T.A., Mackessy, S.P. 2023. Snakes on a plain: Biotic and abiotic factors determine venom compositional variation in a wide-ranging generalist rattlesnake. __*BMC Biology*__ 21: 136. [link](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-023-01626-x) [PDF](https://drewschield.github.io/pubs/Smith2023BMCBiology.pdf)
 
