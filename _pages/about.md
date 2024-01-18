@@ -6,11 +6,11 @@ permalink: /about/
 
 ### [CV](https://drewschield.github.io/CV/Schield_CV_12.01.23.pdf)
 
-Incoming assistant professor in the [Department of Biology](https://bio.as.virginia.edu/) at University of Virginia (Jan 2024)
+Assistant professor in the [Department of Biology](https://bio.as.virginia.edu/) at University of Virginia (Jan 2024)
 - Currently recruiting *two PhD students* for Fall 2024 - send me an email if interested in applying!
 - Interested in doing postdoc in the lab? Please reach out to talk about research ideas and opportunities! 
 
-### Positions
+### Previous Positions
 - NSF postdoctoral research fellow (Feb 2020 - present) in the [Safran Lab](http://www.safran-lab.com/) at University of Colorado Boulder
 - Postdoctoral researcher (June 2018 - Jan 2020) in the [Castoe Lab](https://www.castoelaboratory.org/) at University of Texas at Arlington
 
