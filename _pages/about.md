@@ -8,7 +8,7 @@ permalink: /about/
 
 __Assistant professor__ in the [Department of Biology](https://bio.as.virginia.edu/) at University of Virginia
 - Currently recruiting *two PhD students* for Fall 2024 - send me an email if interested in applying!
-- Interested in doing postdoc in the lab? Please reach out to talk about research ideas and opportunities! 
+- Interested in doing a postdoc in the lab? Please reach out to talk about research ideas and opportunities! 
 
 ### Previous Positions
 - NSF postdoctoral research fellow (Feb 2020 - present) in the [Safran Lab](http://www.safran-lab.com/) at University of Colorado Boulder
