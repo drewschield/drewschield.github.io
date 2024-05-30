@@ -10,6 +10,12 @@ author_profile: true
 
 __*PDFs for individual use only*__
 
+### 2024
+
+__Schield, D.R.†__, C.E. Brown†, S.B. Shakya, G.M. Calabrese, R.J. Safran, and F.H. Sheldon. 2024. Phylogeny and historical biogeography of the swallow family (Hirundinidae) inferred from comparisons of thousands of UCE loci. __*Molecular Phylogenetics and Evolution*__ 197: 108111. (†Co-first authors) [link](https://www.sciencedirect.com/science/article/pii/S1055790324001039?dgcid=author#s0110) [PDF](https://drewschield.github.io/pubs/SchieldBrown2024MPE.pdf)
+
+Gopalan, S.S., B.W. Perry, Y.Z. Francolli, __D.R. Schield__, H.D. Guss, J.M. Bernstein, K. Ballard, C.F. Smith, A.J Saviola, R.H. Adams, S.P. Mackessy, and T.A. Castoe. 2024. Diverse gene regulatory mechanisms alter rattlesnake venom gene expression at fine evolutionary scales. __*Genome Biology and Evolution*__. [link](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evae110/7675271?searchresult=1&login=true) [PDF]()
+
 ### 2023
 
 Farleigh, K., A. Ascanio, M.E. Farleigh, __D.R. Schield__, D.C. Card, M. Leal, T.A. Castoe, T. Jezkova, and J.A. Rodríguez-Robles. 2023. Signals of differential introgression in the genome of natural hybrids of Caribbean anoles. __*Molecular Ecology*__ 32: 6000–6017. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.17170) [PDF](https://drewschield.github.io/pubs/Farleigh2023MolEcol.pdf)
