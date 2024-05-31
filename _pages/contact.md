@@ -5,7 +5,7 @@ permalink: /contact/
 
 
 ### Email:
-[drew.schield(at)colorado.edu](mailto:drew.schield@colorado.edu)
+[drew.schield(at)virginia.edu](mailto:drew.schield@virginia.edu)
 
 ### Twitter:
 [@drschield](https://twitter.com/drschield)
