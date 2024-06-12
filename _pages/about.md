@@ -7,7 +7,8 @@ permalink: /about/
 ### [CV](https://drewschield.github.io/CV/Schield_CV_06.11.24.pdf)
 
 __Assistant professor__ in the [Department of Biology](https://bio.as.virginia.edu/) at University of Virginia
-- Currently recruiting *two PhD students* for Fall 2024 - send me an email if interested in applying!
+- Visit the [Schield Lab](https://schieldlab.org/) website for more information
+- Currently recruiting a *PhD student* for Fall 2025 - send me an email if interested in applying!
 - Interested in doing a postdoc in the lab? Please reach out to talk about research ideas and opportunities! 
 
 ### Previous Positions
