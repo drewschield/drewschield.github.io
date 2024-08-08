@@ -12,6 +12,8 @@ __*PDFs for individual use only*__
 
 ### 2024
 
+Meik, J.M., J.A. Watson, __D.R. Schield__, B.W. Perry, Y. Francioli, H. Guss, S.P. Mackessy, and T.A. Castoe. Climatic temperature and precipitation jointly influence body size in species of western rattlesnakes. __*Royal Society Open Science*__ 11: 240345. [link](https://royalsocietypublishing.org/doi/10.1098/rsos.240345) [PDF](https://drewschield.github.io/pubs/Meik2024RoyalSocietyOpen.pdf)
+
 __Schield, D.R.†__, C.E. Brown†, S.B. Shakya, G.M. Calabrese, R.J. Safran, and F.H. Sheldon. 2024. Phylogeny and historical biogeography of the swallow family (Hirundinidae) inferred from comparisons of thousands of UCE loci. __*Molecular Phylogenetics and Evolution*__ 197: 108111. (†Co-first authors) [link](https://www.sciencedirect.com/science/article/pii/S1055790324001039?dgcid=author#s0110) [PDF](https://drewschield.github.io/pubs/SchieldBrown2024MPE.pdf)
 
 Gopalan, S.S., B.W. Perry, Y.Z. Francolli, __D.R. Schield__, H.D. Guss, J.M. Bernstein, K. Ballard, C.F. Smith, A.J Saviola, R.H. Adams, S.P. Mackessy, and T.A. Castoe. 2024. Diverse gene regulatory mechanisms alter rattlesnake venom gene expression at fine evolutionary scales. __*Genome Biology and Evolution*__. [link](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evae110/7675271?searchresult=1&login=true) [PDF]()
