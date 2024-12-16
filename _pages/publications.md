@@ -6,11 +6,13 @@ classes: wide
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=ugQddL4AAAAJ&hl=en){: .btn .btn--info .text-center}
+[Google Scholar Profile](https://scholar.google.com/citations?user=dtDsMtsAAAAJ&hl=en&oi=ao){: .btn .btn--info .text-center}
 
 __*PDFs for individual use only*__
 
 ### 2024
+
+__Schield, D.R.__, J.K. Carter, E.S.C. Scordato, I.I. Levin, M.R. Wilkins, S.A. Mueller, Z. Gompert, P. Nosil, J.B.W. Wolf, and R.J. Safran. 2024. Sexual selection promotes reproductive isolation in barn swallows. __*Science*__ 386: adj8766. [link](https://www.science.org/doi/full/10.1126/science.adj8766) [PDF](https://drewschield.github.io/pubs/Schield2024Science.pdf) [Supplement](https://drewschield.github.io/pubs/Schield2024Science_SuppMat_.pdf)
 
 Meik, J.M., J.A. Watson, __D.R. Schield__, B.W. Perry, Y. Francioli, H. Guss, S.P. Mackessy, and T.A. Castoe. Climatic temperature and precipitation jointly influence body size in species of western rattlesnakes. __*Royal Society Open Science*__ 11: 240345. [link](https://royalsocietypublishing.org/doi/10.1098/rsos.240345) [PDF](https://drewschield.github.io/pubs/Meik2024RoyalSocietyOpen.pdf)
 
