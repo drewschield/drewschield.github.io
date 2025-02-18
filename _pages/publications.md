@@ -10,6 +10,10 @@ author_profile: true
 
 __*PDFs for individual use only*__
 
+### 2025
+
+Kenny-Duddela, H.V., __D.R. Schield__, K.P. Keller, R.J. Safran. 2025. Female space use correlates with extra-pair mating in barn swallow replacement clutches. __*Behavioral Ecology and Sociobiology*__ 79: 31. [link](https://link.springer.com/article/10.1007/s00265-025-03570-y) [PDF](https://drewschield.github.io/pubs/Kenny-Duddela2025BES.pdf)
+
 ### 2024
 
 __Schield, D.R.__, J.K. Carter, E.S.C. Scordato, I.I. Levin, M.R. Wilkins, S.A. Mueller, Z. Gompert, P. Nosil, J.B.W. Wolf, and R.J. Safran. 2024. Sexual selection promotes reproductive isolation in barn swallows. __*Science*__ 386: adj8766. [link](https://www.science.org/doi/full/10.1126/science.adj8766) [PDF](https://drewschield.github.io/pubs/Schield2024Science.pdf) [Supplement](https://drewschield.github.io/pubs/Schield2024Science_SuppMat.pdf)
