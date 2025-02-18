@@ -12,7 +12,9 @@ __*PDFs for individual use only*__
 
 ### 2025
 
-Kenny-Duddela, H.V., __D.R. Schield__, K.P. Keller, R.J. Safran. 2025. Female space use correlates with extra-pair mating in barn swallow replacement clutches. __*Behavioral Ecology and Sociobiology*__ 79: 31. [link](https://link.springer.com/article/10.1007/s00265-025-03570-y) [PDF](https://drewschield.github.io/pubs/Kenny-Duddela2025BES.pdf)
+Bernstein, J.M., Y.Z. Francioli, __D.R. Schield__, R.H. Adams, B.W. Perry, K. Farleigh, C.F. Smith, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2025. Disentangling a genome-wide mosaic of conflicting phylogenetic signals in western rattlesnakes. __*Molecular Phylogenetics and Evolution*__ 206: 108309. [link](https://www.sciencedirect.com/science/article/pii/S1055790325000260?dgcid=coauthor) [PDF](https://drewschield.github.io/pubs/Bernstein2025MPE.pdf)
+
+Kenny-Duddela, H.V., __D.R. Schield__, K.P. Keller, and R.J. Safran. 2025. Female space use correlates with extra-pair mating in barn swallow replacement clutches. __*Behavioral Ecology and Sociobiology*__ 79: 31. [link](https://link.springer.com/article/10.1007/s00265-025-03570-y) [PDF](https://drewschield.github.io/pubs/Kenny-Duddela2025BES.pdf)
 
 ### 2024
 
