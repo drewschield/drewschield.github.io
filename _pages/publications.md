@@ -12,7 +12,9 @@ __*PDFs for individual use only*__
 
 ### 2025
 
-Morosse, O.J., T. Tsunekage, H.V. Kenny-Duddela, __D.R. Schield__, K.P. Keller, R.J. Safran, and I.I. Levin. 2025. North American barn swallows pair, mate, and interact assortatively. __*Behavioral Ecology*__ araf060. [link](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/araf060/8151829?utm_source=authortollfreelink&utm_campaign=beheco&utm_medium=email&guestAccessKey=a1563696-5977-4cb8-a622-26df22310079)
+__Schield, D.R.__, J.K. Carter, M.G. Alderman, K. Farleigh, D.K. Highland, and R.J. Safran. 2025. Recombination rate and recurrent linked selection shape correlated genomic landscapes across a continuum of divergence in swallows. __*Molecular Ecology*__ e70074. [link](https://onlinelibrary.wiley.com/doi/10.1111/mec.70074) [PDF](https://drewschield.github.io/pubs/Schield2025MolEcol.pdf)
+
+Morosse, O.J., T. Tsunekage, H.V. Kenny-Duddela, __D.R. Schield__, K.P. Keller, R.J. Safran, and I.I. Levin. 2025. North American barn swallows pair, mate, and interact assortatively. __*Behavioral Ecology*__ araf060. [link](https://academic.oup.com/beheco/advance-article/doi/10.1093/beheco/araf060/8151829?utm_source=authortollfreelink&utm_campaign=beheco&utm_medium=email&guestAccessKey=a1563696-5977-4cb8-a622-26df22310079) [PDF](https://drewschield.github.io/pubs/Morosse2025BehavioralEcology.pdf)
 
 Bernstein, J.M., Y.Z. Francioli, __D.R. Schield__, R.H. Adams, B.W. Perry, K. Farleigh, C.F. Smith, J.M. Meik, S.P. Mackessy, and T.A. Castoe. 2025. Disentangling a genome-wide mosaic of conflicting phylogenetic signals in western rattlesnakes. __*Molecular Phylogenetics and Evolution*__ 206: 108309. [link](https://www.sciencedirect.com/science/article/pii/S1055790325000260?dgcid=coauthor) [PDF](https://drewschield.github.io/pubs/Bernstein2025MPE.pdf)
 
